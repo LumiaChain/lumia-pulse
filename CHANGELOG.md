@@ -5,6 +5,19 @@ All notable changes to Lumia Pulse are documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 Entries before the first release were reconstructed from internal development history.
 
+## [2026.06] - 2026-06-30
+
+_Overview page_
+
+### Added
+
+- **dashboard** — Overview page bringing node, staking and reward figures together in one view
+- **api** — Aggregated figures behind the overview page
+
+### Changed
+
+- **admin** — Reward contract configuration updated for the current airdrop round
+
 ## [2026.05] - 2026-05-27
 
 _Delegation, claims and operator tooling_
