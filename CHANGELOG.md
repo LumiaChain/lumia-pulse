@@ -5,6 +5,14 @@ All notable changes to Lumia Pulse are documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 Entries before the first release were reconstructed from internal development history.
 
+## [2026.08] - 2026-08-21
+
+_Eligibility hardening_
+
+### Security
+
+- **api** — Internal wallet exclusion list updated for reward eligibility
+
 ## [2026.06] - 2026-06-30
 
 _Overview page_
