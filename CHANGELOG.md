@@ -5,6 +5,17 @@ All notable changes to Lumia Pulse are documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 Entries before the first release were reconstructed from internal development history.
 
+## [2026.09] - 2026-09-04
+
+_Governance_
+
+### Added
+
+- **api** — Governance participation is tracked and factored into reward calculations
+- **dashboard** — Governance page showing a participant's voting activity and its effect on rewards
+- **admin** — Governance overview for operators
+- **api** — Audit checks that recompute current staking positions and reward accruals and report discrepancies
+
 ## [2026.08] - 2026-08-21
 
 _Eligibility hardening_
