@@ -1,9 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/lumia-mark-dark.svg">
-  <img alt="" src="./assets/lumia-mark-light.svg" height="40">
-</picture>
-
-# Lumia Pulse
+<h1>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/lumia-mark-dark.svg">
+    <img alt="" src="./assets/lumia-mark-light.svg" height="26">
+  </picture>
+  Lumia Pulse
+</h1>
 
 Lumia Pulse is the node and rewards layer of the Lumia ecosystem — node ownership,
 staking, reward distribution, referral programs and the dashboard through which
