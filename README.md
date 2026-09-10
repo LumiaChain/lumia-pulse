@@ -6,6 +6,13 @@
   Lumia Pulse
 </h1>
 
+> [!NOTE]
+> **This repository is generated and contains no source code.**
+> It exists to publish the release history of Lumia Pulse. `CHANGELOG.md` is written by an
+> automated job from the private repositories the product is built in — edits made here by
+> hand are overwritten on the next run. Issues and discussions are read and answered; pull
+> requests against this repository are closed unfixed.
+
 Lumia Pulse is the node and rewards layer of the Lumia ecosystem — node ownership,
 staking, reward distribution, referral programs and the dashboard through which
 participants track them.
